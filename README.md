@@ -1,15 +1,12 @@
 ### Bem vindo ao meu perfil!
 
-<div align="center">
-  <a href="https://github.com/MatheuslFavaretto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheuslFavaretto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheuslFavaretto&layout=compact&langs_count=7&theme=dark"/>
-</div>
+"""
+  Desenvolvedor Backend
   
+"""
 #
-  
-<img align="center" alt="MAT-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
+[![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/) [![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/2.1.x/) [![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)](https://docs.djangoproject.com/en/4.0/) [![](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)](https://www.django-rest-framework.org/) 
+ 
 #
   
 <div> 
