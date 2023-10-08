@@ -23,10 +23,10 @@
 
 ## Principais Habilidades Técnicas
 - **Linguagem de Programação:** Python (Intermediário). <!-- Conhecimentos Consideráveis -->
-- **Banco de Dados:** MySQL, NoSQL. <!-- Bancos de dados com os quais estou habituado; SGBDs não são considerados -->
-- **Padrões de Projetos:** SOLID, RESTful, Microsserviços. <!-- Padrões de Projetos praticados -->
+- **Banco de Dados:** MySQL e NoSQL. <!-- Bancos de dados com os quais estou habituado; SGBDs não são considerados -->
+- **Padrões de Projetos:** SOLID, RESTful e Microsserviços. <!-- Padrões de Projetos praticados -->
 - **Versionamento:** Git, Github. <!-- Controle de Versão de Código -->
-- **Sistemas Operacionais:** Linux, Windows. <!-- Sistemas operacionais com os quais estou habituado -->
+- **Sistemas Operacionais:** Linux e Windows. <!-- Sistemas operacionais com os quais estou habituado -->
 
 ## DevOps Stacks 
 - **CI/CD:** Jenkins, GitLab CI/CD ou GitHub Actions. <!-- Ferramentas com as quais estou habituado -->
