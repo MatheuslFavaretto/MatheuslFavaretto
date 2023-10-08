@@ -26,7 +26,6 @@
 - **Banco de Dados:** MySQL, NoSQL. <!-- Bancos de dados com os quais estou habituado; SGBDs não são considerados -->
 - **Padrões de Projetos:** SOLID, RESTful, Microsserviços. <!-- Padrões de Projetos praticados -->
 - **Versionamento:** Git, Github. <!-- Controle de Versão de Código -->
-- **Ferramentas:** Docker. <!-- Ferramentas de Contêineres utilizadas -->
 - **Sistemas Operacionais:** Linux, Windows. <!-- Sistemas operacionais com os quais estou habituado -->
 
 ## DevOps Stacks 
