@@ -59,10 +59,10 @@
 			<th>Projetos Backend</th>
 		</tr>
 		<tr class="column1">
-			<td><a href="https://github.com/MatheuslFavaretto/Challenge_DevOps">Aluraflix-Project</a> <!-- entrar no repositório --></td>
-			<td><a href="https://github.com/MatheuslFavaretto/Challenge_DevOps-2">Challenge-DevOps</a> <!-- Challenger DevOps Alura--></td>
-		<tr class="column2">
+			<td><a href="https://github.com/MatheuslFavaretto/Challenge_DevOps">AluraFlix-DevOps</a> <!-- entrar no repositório --></td>
 			<td><a href="https://github.com/MatheuslFavaretto/Challenge_Backend">AluraFlix</a> <!-- link para o seu projeto Backend --></td>
+		<tr class="column2">
+  			<td><a href="https://github.com/MatheuslFavaretto/Challenge_DevOps-2">Challenge-DevOps</a> <!-- Challenger DevOps Alura--></td>
 			<td><a href="https://github.com/MatheuslFavaretto/GitSOLID">Princípios-SOLID</a> <!-- link para o seu projeto Backend --></td>
 		</tr>
 	</table>
