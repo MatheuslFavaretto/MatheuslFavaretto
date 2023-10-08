@@ -30,19 +30,19 @@
 - **Sistemas Operacionais:** Linux, Windows. <!-- Sistemas operacionais com os quais estou habituado -->
 
 ## DevOps Stacks 
-- **CI/CD:** Jenkins, GitLab CI/CD ou GitHub Actions <!-- Ferramentas com as quais estou habituado -->
-- **Automação de Servidores:** Ansible <!-- Ferramenta de automação de servidores preferida -->
-- **Contêinerização:** Docker <!-- Criação de contêineres para aplicações -->
-- **Monitoramento:** Prometheus <!-- Ferramenta de monitoramento que possuo mais prática -->
-- **Visualização de Dados:** Grafana <!-- Criação de Dashboards -->
-- **Provisionamento de Infraestrutura:** Terraform <!-- Ferramenta que possuo mais prática para provisionar ambientes na nuvem -->
-- **Certificação:** AWS Certified Cloud Practitioner (Obtida em Maio de 2023) <!-- Certificação obtida -->
+- **CI/CD:** Jenkins, GitLab CI/CD ou GitHub Actions. <!-- Ferramentas com as quais estou habituado -->
+- **Automação de Servidores:** Ansible. <!-- Ferramenta de automação de servidores preferida -->
+- **Contêinerização:** Docker. <!-- Criação de contêineres para aplicações -->
+- **Monitoramento:** Prometheus. <!-- Ferramenta de monitoramento que possuo mais prática -->
+- **Visualização de Dados:** Grafana. <!-- Criação de Dashboards -->
+- **Provisionamento de Infraestrutura:** Terraform. <!-- Ferramenta que possuo mais prática para provisionar ambientes na nuvem -->
+- **Certificação:** AWS Certified Cloud Practitioner. (Obtida em Maio de 2023) <!-- Certificação obtida -->
 
 ## Python Stacks 
-- **Frameworks Web:** Django e Flask <!-- Frameworks web com os quais tenho prática -->
-- **Princípios de Design:** Arquitetura MVC e SOLID <!-- Princípios de projeto que busco seguir -->
-- **Manipulação de Dados:** Pandas <!-- Biblioteca para manipulação e análise de dados em Python -->
-- **ORM:** SQLAlchemy <!-- ORM com o qual tenho mais prática -->
+- **Frameworks Web:** Django e Flask. <!-- Frameworks web com os quais tenho prática -->
+- **Princípios de Design:** Arquitetura MVC e SOLID. <!-- Princípios de projeto que busco seguir -->
+- **Manipulação de Dados:** Pandas. <!-- Biblioteca para manipulação e análise de dados em Python -->
+- **ORM:** SQLAlchemy. <!-- ORM com o qual tenho mais prática -->
 
  
 <hr>
