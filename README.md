@@ -59,7 +59,7 @@
   			<td><a href="https://github.com/MatheuslFavaretto/Challenge_DevOps-2">Challenge-DevOps</a> <!-- Challenger DevOps Alura--></td>
 			<td><a href="https://github.com/MatheuslFavaretto/GitSOLID">Princípios-SOLID</a> <!-- link para o seu projeto Backend --></td>
 		<tr class="column3">
-  			<td><a href=""></a> </td>
+			<td><a href="https://github.com/MatheuslFavaretto/devops-project">Desafio DevOps</a> <!-- Desafio de automação de um sistema em docker-compose --></td>
 			<td><a href="https://github.com/MatheuslFavaretto/api-user">API-USER</a>
 		<tr class="column4">
   			<td><a href=""></a> </td>
