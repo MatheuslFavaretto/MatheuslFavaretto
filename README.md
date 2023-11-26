@@ -33,7 +33,7 @@
 - **Automação de Servidores:** Ansible. <!-- Ferramenta de automação de servidores preferida -->
 - **Contêinerização:** Docker. <!-- Criação de contêineres para aplicações -->
 - **Monitoramento:** Prometheus. <!-- Ferramenta de monitoramento que possuo mais prática -->
-- **Visualização de Dados:** Grafana. <!-- Criação de Dashboards -->
+- **Visualização de Dados:** Grafana, New Relic. <!-- Criação de Dashboards -->
 - **Provisionamento de Infraestrutura:** Terraform. <!-- Ferramenta que possuo mais prática para provisionar ambientes na nuvem -->
 - **Certificação:** AWS Certified Cloud Practitioner. (Obtida em Maio de 2023) <!-- Certificação obtida -->
 
