@@ -22,7 +22,7 @@
 <hr>
 
 ## Principais Habilidades Técnicas
-- **Linguagem de Programação:** Python (Intermediário). <!-- Conhecimentos Consideráveis -->
+- **Linguagem de Programação:** Python. <!-- Conhecimentos Consideráveis -->
 - **Banco de Dados:** MySQL e NoSQL. <!-- Bancos de dados com os quais estou habituado; SGBDs não são considerados -->
 - **Padrões de Projetos:** SOLID, RESTful e Microsserviços. <!-- Padrões de Projetos praticados -->
 - **Versionamento:** Git. <!-- Controle de Versão de Código -->
