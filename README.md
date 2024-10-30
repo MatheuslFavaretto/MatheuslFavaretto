@@ -1,79 +1,10 @@
-<hr>
+![sre](https://i.imgur.com/ykaNfky.jpg)
 
-<div align="center" class="stats-and-mostused">
-	<a href="https://github.com/MatheuslFavaretto">
-  	<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=MatheuslFavaretto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   	<!-- Most used programming languages -->
-  	<img height="180em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheuslFavaretto&layout=compact&langs_count=10&theme=dark"/>
-</div>
-
-<div align="center" class="contact">
-	<table>
-		<tr><th>Contate-me</th></tr>
-		<tr>
-			<td>
-			<a target="_blank" href="https://www.linkedin.com/in/matfavaretto22/">
- 			<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-			</td>
-		</tr>
-	</table>
-</div>
-
-<hr>
-
-## Principais Habilidades Técnicas
-- **Linguagem de Programação:** Python. <!-- Conhecimentos Consideráveis -->
-- **Banco de Dados:** MySQL e NoSQL. <!-- Bancos de dados com os quais estou habituado; SGBDs não são considerados -->
-- **Padrões de Projetos:** SOLID, RESTful e Microsserviços. <!-- Padrões de Projetos praticados -->
-- **Versionamento:** Git. <!-- Controle de Versão de Código -->
-- **Sistemas Operacionais:** Linux e Windows. <!-- Sistemas operacionais com os quais estou habituado -->
-
-## DevOps Stacks 
-- **CI/CD:** Jenkins, GitLab CI/CD ou GitHub Actions. <!-- Ferramentas com as quais estou habituado -->
-- **Automação de Servidores:** Ansible. <!-- Ferramenta de automação de servidores preferida -->
-- **Contêinerização:** Docker. <!-- Criação de contêineres para aplicações -->
-- **Monitoramento:** Prometheus. <!-- Ferramenta de monitoramento que possuo mais prática -->
-- **Visualização de Dados:** Grafana, New Relic. <!-- Criação de Dashboards -->
-- **Provisionamento de Infraestrutura:** Terraform. <!-- Ferramenta que possuo mais prática para provisionar ambientes na nuvem -->
-- **Certificação:** AWS Certified Cloud Practitioner. (Obtida em Maio de 2023) <!-- Certificação obtida -->
-
-## Python Stacks 
-- **Frameworks Web:** Django e Flask. <!-- Frameworks web com os quais tenho prática -->
-- **Princípios de Design:** Arquitetura MVC e SOLID. <!-- Princípios de projeto que busco seguir -->
-- **Manipulação de Dados:** Pandas. <!-- Biblioteca para manipulação e análise de dados em Python -->
-- **ORM:** SQLAlchemy. <!-- ORM com o qual tenho mais prática -->
-
- 
-<hr>
-
-<div align="center" class="projects">
-	<table>
-		<tr class="header">
-			<th>Projetos DevOps</th>
-			<th>Projetos Backend</th>
-		</tr>
-		<tr class="column1">
-			<td><a href="https://github.com/MatheuslFavaretto/Challenge_DevOps">AluraFlix-DevOps</a> <!-- entrar no repositório --></td>
-			<td><a href="https://github.com/MatheuslFavaretto/Challenge_Backend">AluraFlix</a> <!-- link para o seu projeto Backend --></td>
-		<tr class="column2">
-  			<td><a href="https://github.com/MatheuslFavaretto/Challenge_DevOps-2">Challenge-DevOps</a> <!-- Challenger DevOps Alura--></td>
-			<td><a href="https://github.com/MatheuslFavaretto/GitSOLID">Princípios-SOLID</a> <!-- link para o seu projeto Backend --></td>
-		<tr class="column3">
-			<td><a href="https://github.com/MatheuslFavaretto/WP-Swarm-Dockerized">WP-Swarm-Dockerized</a> <!--  --></td>
-			<td><a href="https://github.com/MatheuslFavaretto/api-user">API-USER</a>
-		<tr class="column4">
-  			<td><a href=""></a> </td>
-			<td><a href="https://github.com/MatheuslFavaretto/library-olist">Library-Olist</a> 
-		</tr>
-	</table>
-</div>
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/msfidelis)](https://github.com/MatheuslFavaretto)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/msfidelis/)](https://www.linkedin.com/in/matfavaretto22)
 
 
-
-<hr>
-
-
-<div align="center" class="day-streak">
-	<a href="https://github.com/MatheuslFavaretto"> 
-   	<img height="220em" width="800em" src="https://streak-stats.demolab.com?user=MatheuslFavaretto&theme=dark"/>
-</div>
+- 🔭 I’m currently working
+- 🌱 I’m currently learning Golang and Event Driven Architectures 
+- 😄 Pronouns: He/Him
+- 💰 Pay me a Coffee: 23f228f9-92c8-4b18-ad64-ff39cd79ca0b (pix) 
